@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperExample", "DapperExample\DapperExample.csproj", "{F4D271E6-83F8-4610-A52E-C6D0775A335D}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{71179629-B2C2-4EFD-9E76-EFDE87EA2E6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4D271E6-83F8-4610-A52E-C6D0775A335D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4D271E6-83F8-4610-A52E-C6D0775A335D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4D271E6-83F8-4610-A52E-C6D0775A335D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4D271E6-83F8-4610-A52E-C6D0775A335D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71179629-B2C2-4EFD-9E76-EFDE87EA2E6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71179629-B2C2-4EFD-9E76-EFDE87EA2E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71179629-B2C2-4EFD-9E76-EFDE87EA2E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71179629-B2C2-4EFD-9E76-EFDE87EA2E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16E45C6D-9C4E-474E-BD8E-4E9B375F27B9}
+	EndGlobalSection
+EndGlobal
